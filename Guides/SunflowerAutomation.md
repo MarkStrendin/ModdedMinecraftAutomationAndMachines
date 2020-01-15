@@ -25,8 +25,7 @@ I needed a large amount of sunflowers to create EnderIO's Liquid Sunshine. Here'
 * 1 Applied Energistics Import Bus (below the Vacuum Chest), to import contents of the vacuum chest into the existing ME system
 * A light source (Extra Utilities Glowing Glass) to keep the flower from "popping off" because of light levels. 
   * I am not sure if this can actually happen, but I figured better safe than sorry. If it does, your vacuum chest will pick it up at least.
-* Lots of Bone Meal - one bone meal per sunflower that you need, or ideally.
-  * Creating any kind of mob farm that collects skeleton parts is a great way to have more bones than you know what to do with.
+* Lots of Bone Meal - one bone meal per sunflower that you need
 
 ## Explanation
 * Sunflowers will simply drop another sunflower item when you right click them with bone meal
@@ -35,6 +34,8 @@ I needed a large amount of sunflowers to create EnderIO's Liquid Sunshine. Here'
 * You can use an Applied Energistics Level Emitter to make sure that you always have a certain number of sunflower items "in stock". When the emitter emits a redstone signal, the clock stops, stopping the dispensor.
 * Applied Energistics can keep the dispensor full of bone meal, especially if your system knows how to craft it
 * The sunflower is not used up, and does not need to be replanted.
+* If you have a mob farm elsewhere that produces lots of bones from skeletons, you likely have more bones than you can use. If you teach an ME system to auto-craft bones to bone meal, you will have more bone meal than you need.
+  * Pulverising/Grinding/SAG Milling bones will usually create more bone meal than simply crafting a bone in a crafting table, in most modpacks.
 
 
 [screenshot]: ../Images/sunflower.png "Automated Sunflower screenshot"
