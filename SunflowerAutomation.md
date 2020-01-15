@@ -19,12 +19,14 @@ I needed a large amount of sunflowers to create EnderIO's Liquid Sunshine. Here'
 * 1 Dirt
 * 1 Sunflower (planted on dirt block)
 * 1 Applied Energistics Level Emitter, set to emit when levels are above or equal to limit (of however many sunflower items you wish to keep in stock)
-  * Oriented to emit a signal into the Redstone Clock block
+  * Oriented to emit a signal into the Redstone Clock block, to stop it when the system has enough.
 * 1 Applied Energistics Export Bus, exporting Bone Meal from existing ME system into dispensor.
   * My ME system knows how to craft bone meal from bones, and so this export bus has a Crafting Card, to make sure it stays topped up when supplies run out
 * 1 Applied Energistics Import Bus (below the Vacuum Chest), to import contents of the vacuum chest into the existing ME system
 * A light source (Extra Utilities Glowing Glass) to keep the flower from "popping off" because of light levels. 
   * I am not sure if this can actually happen, but I figured better safe than sorry. If it does, your vacuum chest will pick it up at least.
+* Lots of Bone Meal - one bone meal per sunflower that you need, or ideally.
+  * Creating any kind of mob farm that collects skeleton parts is a great way to have more bones than you know what to do with.
 
 ## Explanation
 * Sunflowers will simply drop another sunflower item when you right click them with bone meal
