@@ -26,6 +26,7 @@ Grains of Infinity is tedious to craft. Here is how I keep 5,000 of them in my M
 ## Explanation
 * Grains of Infinity are created by lighting fire on a bedrock block and letting the fire burn out naturally. When this happens, there is a chance to create a Grains of Infinity item.
 * The redstone clock triggers the dispenser, which uses a Flint and Steel in the empty space below it, which should be Bedrock.
+* The dispensor _won't_ actually trigger a flint and steel charge if there is already a fire underneath it, so it does not waste your flint and steel durability.
 * The AE Export Bus keeps the dispenser stocked with Flint and Steel items. These last multiple uses, but they do wear out, and the item is not a guaranteed drop.
 * The Grains of Infinity item will be on fire when it spawns, and _can_ burn up, so you need something to pull it out of the fire to collect it. Any Vacuum chest works best for this (does not have to be an EnderIO one)
 * The level emitter emits a redstone signal into the Redstone Clock when the ME system has the desired amount of items in stock.
