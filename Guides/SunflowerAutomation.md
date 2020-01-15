@@ -37,4 +37,4 @@ I needed a large amount of sunflowers to create EnderIO's Liquid Sunshine. Here'
 * The sunflower is not used up, and does not need to be replanted.
 
 
-[screenshot]: sunflower.png "Automated Sunflower screenshot"
+[screenshot]: ../Images/sunflower.png "Automated Sunflower screenshot"
