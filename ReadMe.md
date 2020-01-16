@@ -10,3 +10,4 @@ This information comes from a custom modpack on a private server, but uses popul
 
 * [Sunflowers](Guides/SunflowerAutomation.md)
 * [EnderIO: Grains of Infinity](Guides/GrainsOfInfinity.md)
+* [Applied Energistics 2: Pure Crystals and Fluix Crystals](Guides/AppliedEnergisticsCrystals.md)
