@@ -32,4 +32,4 @@ Grains of Infinity is tedious to craft. Here is how I keep 5,000 of them in my M
 * The level emitter emits a redstone signal into the Redstone Clock when the ME system has the desired amount of items in stock.
 * This makes noise, so either assemble it away from your base, or use Sound Mufflers (Extra Utilities 2) to dampen the sound.
 
-[screenshot]: ../Images/GrainsOfInfinity.png "Automated Sunflower screenshot"
+[screenshot]: ../Images/GrainsOfInfinity.png "Screenshot"
